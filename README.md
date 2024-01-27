@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pradyut Guchhait</h1>
 <h3 align="center">A passionate learning developer from India</h3>
-![pexels-erik-mclean-5558237](https://github.com/Monarch010/Test/assets/157786612/f7b4604e-9ab9-4afb-a7b6-8bdb72db9935)
+<img src="https://github.com/Monarch010/Test/assets/157786612/f7b4604e-9ab9-4afb-a7b6-8bdb72db9935" width="500px")
 
 - 🔭 I’m currently working on [Travel Website](https://monarch010.github.io/Test/Travel/)
 
