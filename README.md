@@ -2,11 +2,11 @@
 <h3 align="center">A passionate learning developer from India</h3>
 <img src="https://github.com/Monarch010/Test/assets/157786612/f7b4604e-9ab9-4afb-a7b6-8bdb72db9935" width="200px")
 
-- 🔭 I’m currently working on [Travel Website](https://monarch010.github.io/Test/Travel/)
+🔭 I’m currently working on [Travel Website](https://monarch010.github.io/Test/Travel/)
 
-- 🌱 I’m currently learning **HTML,CSS and JavaScript**
+🌱 I’m currently learning **HTML,CSS and JavaScript**
 
-- ⚡ Fun fact **I think I am Funny LOL**
+⚡ Fun fact **I think I am Funny LOL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
