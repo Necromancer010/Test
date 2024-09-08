@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/1200px-Constitution_of_India.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-y: scroll;
+    
+}
+header {
+    background: rgba(10, 10, 10, 0.5); /* 0.8 transparency */
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.content {
+    padding: 2rem;
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+h1{
+    color: #f8f2f2;
+}
+ h2 {
+    color: #060505;
+}
+
+.section {
+    margin-bottom: 1.5rem;
+}
+.games-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.game-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+}
+.game-section img {
+    width: 200px;
+    height: 150px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.button {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+}
+.button:hover {
+    background-color: #555;
+}
+
+
+.team-member {
+    text-align: center;
+}
+
+.section {
+    margin-bottom: 2rem;
+}
+
+.section h2 {
+    margin-bottom: 1rem;
+}
