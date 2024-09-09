@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Constitution_of_India.jpg/1200px-Constitution_of_India.jpg');
+    background-image:url("assets/Constitution_of_India.jpg") ;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -24,12 +24,12 @@ header {
 }
 .content {
     padding: 2rem;
-    background: #fff;
+    background: #ebe7d3;
     border-radius: 5px;
     margin-top: 1rem;
 }
 h1{
-    color: #f8f2f2;
+    color: #f4f1f1;
 }
  h2 {
     color: #060505;
@@ -37,24 +37,6 @@ h1{
 
 .section {
     margin-bottom: 1.5rem;
-}
-.games-container {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-.game-section {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 200px;
-}
-.game-section img {
-    width: 200px;
-    height: 150px;
-    margin-bottom: 10px;
-    border-radius: 5px;
 }
 .button {
     display: inline-block;
@@ -72,7 +54,7 @@ h1{
 
 
 .team-member {
-    text-align: center;
+    
 }
 
 .section {
@@ -81,4 +63,38 @@ h1{
 
 .section h2 {
     margin-bottom: 1rem;
+}
+.games-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.game-section {
+    display: flex;
+    align-items: center;
+    gap: 20px; /* Space between image and text */
+    flex-basis: 100%; /* Takes full width */
+}
+
+.game-section img {
+    width: 350px;
+    height: 350px;
+    border-radius: 5px;
+}
+
+.game-details {
+    max-width: 500px; /* Restricting the description width */
+    margin-left: 100px;
+}
+
+.game-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 0.8rem;
+}
+
+.game-details p {
+    margin: 0.5rem 0;
 }
