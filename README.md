@@ -35,8 +35,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Monarch010&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Monarch010&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Pradyut-Guchhait&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradyut-Guchhait&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
